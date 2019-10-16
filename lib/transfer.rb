@@ -1,4 +1,3 @@
-class Transfer
   # your code here
   class Transfer
   attr_reader :amount, :sender, :receiver
